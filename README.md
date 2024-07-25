@@ -1,6 +1,8 @@
 # Maximizing Revenue for Taxi Cab Drivers through Payment Type Analysis
 
-!(https://cdn.vox-cdn.com/thumbor/Ge0nFOIuQMfhEtKyM8YNIL2hCjQ=/0x0:4752x3168/920x613/filters:focal(1996x1204:2756x1964):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55123497/4859177053_c3fb190917_o.0.jpg)
+<img src="https://cdn.vox-cdn.com/thumbor/Ge0nFOIuQMfhEtKyM8YNIL2hCjQ=/0x0:4752x3168/920x613/filters:focal(1996x1204:2756x1964):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55123497/4859177053_c3fb190917_o.0.jpg" alt="Description of the Image" style="width: 100%; height: 50%; object-fit: cover;" />
+
+
 
 ## Problem Statement
 In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness. Our goal is to use data-driven insights to maximise revenue streams for taxi drivers in order to meet this need. Our research aims to determine whether payment methods have an impact on fare pricing by focusing on the relationship between payment type and fare amount
