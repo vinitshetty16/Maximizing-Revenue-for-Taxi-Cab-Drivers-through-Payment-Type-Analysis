@@ -1,6 +1,6 @@
 # Maximizing Revenue for Taxi Cab Drivers through Payment Type Analysis
 
-<img src="https://cdn.vox-cdn.com/thumbor/Ge0nFOIuQMfhEtKyM8YNIL2hCjQ=/0x0:4752x3168/920x613/filters:focal(1996x1204:2756x1964):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55123497/4859177053_c3fb190917_o.0.jpg" alt="Description of the Image" style="width: 100%; height: 50%; object-fit: cover;" />
+<img src="https://cdn.vox-cdn.com/thumbor/Ge0nFOIuQMfhEtKyM8YNIL2hCjQ=/0x0:4752x3168/920x613/filters:focal(1996x1204:2756x1964):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55123497/4859177053_c3fb190917_o.0.jpg" alt="Description of the Image" width="1400px" height="400px"/>
 
 
 
